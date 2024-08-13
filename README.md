@@ -19,6 +19,9 @@ The "Recipes" project is part of The Odin Project's Foundations course, designed
 ```plaintext
 odin-recipes/
 │
+├── css/
+│   └── style.css
+│
 ├── recipes/
 │   ├── easy-lasagna.html
 │   ├── german-pancakes.html
